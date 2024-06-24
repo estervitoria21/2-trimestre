@@ -87,4 +87,50 @@ margin: 1em 0 2em 0;
  color: var(- - cinza-secundario);
 }
    
+.secundario--botao{
+    diisplay:inline-blok;
+    margem-top:1em;
+}
 
+.container--descricao{
+    podding:2em;
+}
+
+dispositivos--listas{
+    display:flex;
+    justify-content:center;
+    list-style-type:nome;
+    margin:5em 0
+}
+
+.dispositivos{
+    text-aling:center;
+}
+
+.dispositivos--titulo{
+    font-size:32px;
+    calor:var(--branco-principal);
+}
+
+.rodape{
+    text-aling:center;
+    margin:5em 3em;
+}
+
+.lista--item{
+    font-size:32px
+    calor:var(-- branco-principal);
+}
+
+.rodape--lista{
+    display:flex;
+    justify-centent:center;
+    list-stily-type:nome;
+    margin-top:1em;
+}
+
+.lista--link a {
+    text-decoration:nome;
+    color:var(--branco - principal);
+    margin-left:1em;
+}
